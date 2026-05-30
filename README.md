@@ -34,13 +34,19 @@ Das Skript im Notebook vollzieht die Analyse in drei Schritten:
 
 Zur fundierten Entscheidungsfindung und Visualisierung der Betriebszustände generiert das Notebook aussagekräftige Diagramme:
 
-* H-Q-Kennfeld: Abgleich der real gemessenen Betriebspunkte mit der theoretischen Herstellerkennlinie.
+* Volumenstrom-Verlauf: Darstellung des gemessenen Volumenstroms über den gesamten Betrachtungszeitraum.
 
-* Leistungs- und Verlustverlauf: Zeitliche Darstellung der elektrischen Leistungsaufnahme im direkten Vergleich zur hydraulischen Nutzleistung, um Ineffizienzen sofort sichtbar zu machen.
+* Häufigkeitsverteilung: Analyse, wie oft bestimmte Betriebspunkte angefahren wurden.
 
-* Zeitliche Trends: Detaillierte Plots zum Verlauf von Förderhöhe, Wirkungsgrad und Volumenstrom über den gesamten Messzeitraum.
+* Pumpenkennfeld: Visualisierung der realen Betriebspunkte im Vergleich zur theoretischen Kennlinie.
 
-* Kostenstruktur: Visualisierung der ökonomischen Auswirkungen des Pumpenbetriebs basierend auf dem Energieverbrauch.
+* Leistung & Verluste: Trenddarstellung der elektrischen Leistungsaufnahme und der nicht genutzten Verlustleistung (in kW).
+
+* Wirkungsgrad-Analyse: Zeitlicher Verlauf der erzielten Wirkungsgrade.
+
+* Kostenverlauf: Darstellung der anfallenden Energiekosten in € pro Stunde.
+
+* Spezifischer Energieverbrauch: Kennzahlen zur Effizienz des Pumpbetriebs im Zeitverlauf.
 
 **Durchführung**
 
