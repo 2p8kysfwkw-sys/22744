@@ -30,6 +30,18 @@ Das Skript im Notebook vollzieht die Analyse in drei Schritten:
 
 * Auswertung: Berechnung der Energiebilanz und Identifikation von ineffizienten Betriebszuständen.
 
+**Grafische Auswertung & Plots**
+
+Zur fundierten Entscheidungsfindung und Visualisierung der Betriebszustände generiert das Notebook aussagekräftige Diagramme:
+
+* H-Q-Kennfeld: Abgleich der real gemessenen Betriebspunkte mit der theoretischen Herstellerkennlinie.
+
+* Leistungs- und Verlustverlauf: Zeitliche Darstellung der elektrischen Leistungsaufnahme im direkten Vergleich zur hydraulischen Nutzleistung, um Ineffizienzen sofort sichtbar zu machen.
+
+* Zeitliche Trends: Detaillierte Plots zum Verlauf von Förderhöhe, Wirkungsgrad und Volumenstrom über den gesamten Messzeitraum.
+
+* Kostenstruktur: Visualisierung der ökonomischen Auswirkungen des Pumpenbetriebs basierend auf dem Energieverbrauch.
+
 **Durchführung**
 
 Das Skript wurde in Google Colab programmiert.
